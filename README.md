@@ -2,8 +2,8 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `Esther Sim`
+- **CCID:** `esim1`
 
 ## References and Resources
 
